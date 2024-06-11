@@ -34,6 +34,7 @@ A collection of Awesome AIs.
 - [Diagram](https://diagram.com/)
 
 ## Image
+- [Leonardo AI](https://leonardo.ai/)
 - [Playground AI](https://playground.com/)
 
 ## Models
