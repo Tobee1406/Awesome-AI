@@ -8,49 +8,49 @@ A collection of Awesome AIs.
 </div>
 
 # Contents
-- [Business](#business)
-- [Chat](#chat)
-- [Education](#education)
-- [Icons](#icons)
-- [Image](#image)
-- [Models](#models)
-- [Music](#music)
-- [Programming](#programming)
-- [Video](#video)
+- :chart_with_upwards_trend: [Business](#chart_with_upwards_trend-business)
+- 💬 [Chat](#-chat)
+- :student: [Education](#student-education)
+- :slightly_smiling_face: [Icons](#slightly_smiling_face-icons)
+- :framed_picture: [Image](#framed_picture-image)
+- :chess_pawn: [Models](#chess_pawn-models)
+- :musical_note: [Music](#musical_note-music)
+- :keyboard: [Programming](#keyboard-programming)
+- :video_camera: [Video](#video_camera-video)
 
-## Business
+## :chart_with_upwards_trend: Business
 - [Jasper AI](https://www.jasper.ai/)
 
-## Chat
+## 💬 Chat
 - [ChatGPT](https://chatgpt.com/)
 - [Copilot](https://copilot.microsoft.com/)
 - [Gemini](https://gemini.google.com/)
 
-## Education
+## :student: Education
 - [DoNotPay](https://donotpay.com/)
 - [Tutor AI](https://tutorai.me/)
 
-## Icons
+## :slightly_smiling_face: Icons
 - [Appicons AI](https://appicons.ai/)
 - [Diagram](https://diagram.com/)
 
-## Image
+## :framed_picture: Image
 - [AI Human Generator](https://generated.photos/human-generator)
 - [AI Girl Generator](https://perchance.org/ai-girl-image-generator)
 - [Leonardo AI](https://leonardo.ai/)
 - [Playground AI](https://playground.com/)
 
-## Models
+## :chess_pawn: Models
 - [DreamFusion](https://diagram.com/)
 
-## Music
+## :musical_note: Music
 - [Soundraw](https://soundraw.io/)
 - [Suno](https://suno.com/)
 
-## Programming
+## :keyboard: Programming
 - [Programming Helper](https://www.programming-helper.com/)
 
-## Video
+## :video_camera: Video
 - [Lumen5](https://lumen5.com/)
 - [Pika](https://pika.art/)
 - [Udio](https://www.udio.com/)
