@@ -8,6 +8,7 @@ A collection of Awesome AIs.
 </div>
 
 # Contents
+- [Business](#business)
 - [Chat](#chat)
 - [Education](#education)
 - [Icons](#icons)
