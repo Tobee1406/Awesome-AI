@@ -35,6 +35,8 @@ A collection of Awesome AIs.
 - [Diagram](https://diagram.com/)
 
 ## Image
+- [AI Human Generator](https://generated.photos/human-generator)
+- [AI Girl Generator](https://perchance.org/ai-girl-image-generator)
 - [Leonardo AI](https://leonardo.ai/)
 - [Playground AI](https://playground.com/)
 
@@ -43,6 +45,7 @@ A collection of Awesome AIs.
 
 ## Music
 - [Soundraw](https://soundraw.io/)
+- [Suno](https://suno.com/)
 
 ## Programming
 - [Programming Helper](https://www.programming-helper.com/)
@@ -50,6 +53,7 @@ A collection of Awesome AIs.
 ## Video
 - [Lumen5](https://lumen5.com/)
 - [Pika](https://pika.art/)
+- [Udio](https://www.udio.com/)
 
 ## Links
 
